@@ -1,0 +1,20 @@
+﻿[
+  {
+    "name": "Своя активність"
+  },
+  {
+    "name": "Планка",
+    "type": 0,
+    "caloriesPerUnit": 2
+  },
+  {
+    "name": "Присідання",
+    "type": 1,
+    "caloriesPerUnit": 3.5
+  },
+  {
+    "name": "Віджимання",
+    "type": 1,
+    "caloriesPerUnit": 5
+  }
+]

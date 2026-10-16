@@ -1,0 +1,35 @@
+﻿[
+  {
+    "name": "Своя страва"
+  },
+  {
+    "name": "Вівсянка",
+    "portion": 250,
+    "kcal": 350,
+    "fat": 8,
+    "carbohydrates": 45,
+    "sugar": 6,
+    "protein": 18,
+    "salt": 0.4
+  },
+  {
+    "name": "Куряча грудка",
+    "portion": 200,
+    "kcal": 220,
+    "fat": 4,
+    "carbohydrates": 0.3,
+    "sugar": 0.1,
+    "protein": 46,
+    "salt": 0.6
+  },
+  {
+    "name": "Яєчня",
+    "portion": 250,
+    "kcal": 200,
+    "fat": 5,
+    "carbohydrates": 0.5,
+    "sugar": 0.1,
+    "protein": 20,
+    "salt": 1
+  }
+]
